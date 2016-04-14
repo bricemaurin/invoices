@@ -52,3 +52,7 @@ group :development do
   gem "pry-rails"
   gem "pry-byebug"
 end
+
+gem 'bootstrap-sass'
+gem 'font-awesome-sass'
+gem 'simple_form'
